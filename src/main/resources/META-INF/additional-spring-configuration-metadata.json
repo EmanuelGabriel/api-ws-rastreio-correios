@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "url.proxy.correios",
+    "type": "java.lang.String",
+    "description": "A description for 'url.proxy.correios'"
+  },
+  {
+    "name": "url.base.oauth.bb.sandbox",
+    "type": "java.lang.String",
+    "description": "A description for 'url.base.oauth.bb.sandbox'"
+  },
+  {
+    "name": "url.base.api.bb.sandbox",
+    "type": "java.lang.String",
+    "description": "A description for 'url.base.api.bb.sandbox'"
+  },
+  {
+    "name": "chave.gw.dev.app.key",
+    "type": "java.lang.String",
+    "description": "A description for 'chave.gw.dev.app.key'"
+  },
+  {
+    "name": "value.token",
+    "type": "java.lang.String",
+    "description": "A description for 'value.token'"
+  },
+  {
+    "name": "header.basic.authorization",
+    "type": "java.lang.String",
+    "description": "A description for 'header.basic.authorization'"
+  },
+  {
+    "name": "scope",
+    "type": "java.lang.String",
+    "description": "A description for 'scope'"
+  },
+  {
+    "name": "client.id",
+    "type": "java.lang.String",
+    "description": "A description for 'client.id'"
+  },
+  {
+    "name": "client.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'client.secret'"
+  },
+  {
+    "name": "grant.type",
+    "type": "java.lang.String",
+    "description": "A description for 'grant.type'"
+  },
+  {
+    "name": "developer.application.key",
+    "type": "java.lang.String",
+    "description": "A description for 'developer.application.key'"
+  }
+]}
